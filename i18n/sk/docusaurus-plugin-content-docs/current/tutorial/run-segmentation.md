@@ -10,6 +10,22 @@ Na vykonanie segmentácie vyšších morfologických štruktúr importujte sním
 
     Na použitie stiahnutého skriptu  `Tissue detection and cell detection.groovy` ho otvorte v paneli `Automate` > `Show script editor`. Po otvorení `Script editor` vyberte `File` > `Open...`  a vyberte adresár, kde sa nachádzajú stiahnuté skripty. Vyberte skript `Tissue detection and cell detection.groovy`. Po načítaní skriptu vyberte možnosť `Run` , aby ste vykonali segmentáciu tkaniva a buniek a klasifikáciu buniek.
 
+    1.1 Otvorte `Script editor`.
+
+    ![Open Script editor](./img/Script1.png)
+
+    1.2 vyberte adresár so scriptom.
+
+    ![Select the directory](./img/Script2.png)
+
+    1.3 načítajte vybraný script.
+
+    ![Load the script](./img/Script3.png)
+
+    1.4 Spustenie scriptu nad snímkom.
+
+    ![Run the script](./img/Script4.png)
+
 2. Vyberte oblasť snímku, pre ktorú chcete vykonať predikciu.
 
     ![Select the area](./img/QuPath1.jpg)

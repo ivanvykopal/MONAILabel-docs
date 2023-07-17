@@ -10,6 +10,22 @@ To perform the segmentation of higher-order morphological structures, import WSI
 
     To use the downloaded script, `Tissue detection and cell detection.groovy`, open it in the panel `Automate` > `Show script editor`. Once the `Script editor` is open, select `File` > `Open...` and choose the directory where the downloaded scripts are located. Select the script `Tissue detection and cell detection.groovy.` After loading the script, choose the option `Run` to perform tissue and cell segmentation and cell classification.
 
+    1.1 Open `Script editor`.
+
+    ![Open Script editor](./img/Script1.png)
+
+    1.2 Select the directory with the script.
+
+    ![Select the directory](./img/Script2.png)
+
+    1.3 Load the script.
+
+    ![Load the script](./img/Script3.png)
+
+    1.4 Run the script on the image.
+
+    ![Run the script](./img/Script4.png)
+
 2. Select the area of the image for which you want to perform prediction.
 
     ![Select the area](./img/QuPath1.jpg)
