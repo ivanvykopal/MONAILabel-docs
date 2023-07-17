@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3196],{2487:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/MONAILabel-docs/blog/tags/docusaurus","allTagsPath":"/MONAILabel-docs/blog/tags","count":4}')}}]);
