@@ -18,6 +18,6 @@ sidebar_position: 3
 
 3. Po spustení QuPath prejdite na `Edit` > `Preferences...` > `MONAI Label` a zmeňte Server URL na `http://0.0.0.0:8000` ak je server spustený lokálne, alebo zmeňte Server URL na poskytnutú URL adresu.
 
-    ![Change Server URL 1](./img/Qupath2.png)
+    ![Change Server URL 1](./img/QuPath2.png)
 
-    ![Change Server URL 2](./img/Qupath3.png)
+    ![Change Server URL 2](./img/QuPath3.png)
