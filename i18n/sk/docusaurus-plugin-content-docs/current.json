@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Ďalej",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Installation": {
+    "message": "Inštalácia",
+    "description": "The label for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation.link.generated-index.description": {
+    "message": "Kroky pre nainštalovanie všetkých potrebných aplikácií a knižníc",
+    "description": "The generated-index page description for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial": {
+    "message": "Tutoriál",
+    "description": "The label for category Tutorial in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Documentation": {
+    "message": "Dokumentácia",
+    "description": "The label for category Documentation in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Inštalácia",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Kroky pre nainštalovanie všetkých potrebných aplikácií a knižníc"
+  }
+}

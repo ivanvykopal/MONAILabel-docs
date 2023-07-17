@@ -1,0 +1,42 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.More": {
+    "message": "Viac",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.title.Authors": {
+    "message": "Autori",
+    "description": "The title of the footer links column with title=Authors in the footer"
+  },
+  "link.item.label.Tutorial": {
+    "message": "Tutoriál",
+    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/ivanvykopal/MONAILabel/tree/development"
+  },
+  "link.item.label.Ivan Vykopal": {
+    "message": "Ivan Vykopal",
+    "description": "The label of footer link with label=Ivan Vykopal linking to mailto:ivan.vykopal@gmail.com"
+  },
+  "link.item.label.Vision & Graphics Group": {
+    "message": "Vision & Graphics Group",
+    "description": "The label of footer link with label=Vision & Graphics Group linking to https://vgg.fiit.stuba.sk/"
+  },
+  "link.item.label.IKEM": {
+    "message": "IKEM",
+    "description": "The label of footer link with label=IKEM linking to https://www.ikem.cz/cs/"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 My Project, Inc. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
