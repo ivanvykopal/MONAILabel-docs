@@ -1,15 +1,15 @@
 {
   "feature.open_source": {
-    "message": "MONAILabel Server je open-source platforma, čo znamená, že jej zdrojový kód je voľne dostupný verejnosti. To podporuje spoluprácu a podnecuje komunitu vývojárov a výskumníkov, aby prispievali, zdokonalili a prispôsobili túto platformu špecifickým potrebám, zabezpečujúc transparentnosť a dostupnosť pre všetkých."
+    "message": "MONAILabel Server is an open-source platform, meaning that its source code is freely available to the public. This fosters collaboration and encourages a community of developers and researchers to contribute, enhance, and tailor the platform to specific needs, ensuring transparency and accessibility for all."
   },
   "feature.multiplatform": {
-    "message": "MONAILabel Server je navrhnutý tak, aby bol multiplatformový a podporoval rôzne operačné systémy, ako sú Windows, macOS a Linux. To umožňuje používateľom prístup a využitie platformy na ich preferovaných zariadeniach bez obmedzenia na konkrétny operačný systém."
+    "message": "MONAILabel Server is designed to be multiplatform, supporting various operating systems such as Windows, macOS, and Linux. This enables users to access and utilize the platform on their preferred devices without being restricted to a particular operating system."
   },
   "feature.customizability": {
-    "message": "MONAILabel Server je vysoko prispôsobiteľný, umožňujúc jednoduchú integráciu nových modelov a postprocessingových krokov pre vylepšenú anotáciu medicínskych snímkov a vývoj AI modelov."
+    "message": "MONAILabel Server is highly customizable, allowing effortless integration of new models and postprocessing steps for improved medical image annotation and AI model development."
   },
   "feature.easy_to_use": {
-    "message": "Jednoduchosť použitia MONAILabelu je ďalej zlepšená vďaka možnosti nasadenia pomocou Dockeru a bezproblémovému začleneniu ako rozšírenia pre QuPath, čo zjednodušuje nastavenie a prístupnosť pre používateľov pri nasadení tejto platformy a využívaní funkcií QuPath pre pokročilú analýzu snímkov."
+    "message": "MONAILabel's ease of use is further enhanced by its Docker deployment capability and seamless integration as a QuPath extension, simplifying the setup and accessibility for users in deploying the platform and leveraging the powerful functionalities of QuPath for advanced image analysis."
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",

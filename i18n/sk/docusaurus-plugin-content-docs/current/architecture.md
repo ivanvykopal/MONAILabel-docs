@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Architecture
+# Architektúra
 
 :::info
 Táto stránka bude aktualizovaná neskôr.
