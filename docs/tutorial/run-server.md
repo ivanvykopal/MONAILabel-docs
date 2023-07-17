@@ -12,7 +12,7 @@ The preferred way to run the server is using docker:
 docker run --gpus all --rm -ti -p 8000:8000 xvykopal/monailabel-server:latest bash
 ```
 
-or you can use the following command, if you have downloaded the source code
+or you can use the following command, if you have downloaded the source code:
 
 ```bash
 docker compose up

@@ -20,7 +20,7 @@ To deploy server using Docker you need to install Docker on your computer. This 
 
 ### Get Docker Image
 
-1. Pull image from Docker Hub
+1. Pull image from Docker Hub.
 
 ```bash
 docker pull xvykopal/monailabel-server:latest
@@ -30,7 +30,7 @@ docker pull xvykopal/monailabel-server:latest
 
 ### General prerequisites
 
-These prerequisites are necessary when you want to run the server with Docker.
+These prerequisites are necessary when you want to run the server without Docker.
 
 #### Python
 
@@ -109,7 +109,7 @@ The next step is to download source code from the GitHub [repository](https://gi
 
 4. To run server, it is needed to download [openslide binaries](https://openslide.org/download/) and extract them to any location. After extraction, add the path to the `bin` directory to the environment variables in `PATH`, as you done for Python.
 
-5. To add the path to the `monailabel\scripts` directory to the `PATH` environment variable, follow the instructions in this [macOS example](https://www.cyberciti.biz/faq/appleosx-bash-unix-change-set-path-environment-variable/). If any `dll` libraries are missing, you can download them from [dll-files.com](https://www.dll-files.com/). Specifically, if you need the missing `cudnn64_8.dll`, you can download it using this link. After downloading the `dll` files, you need to copy them to the system disk. On Windows systems, the standard location is `C:\Windows\System32`.
+5. To add the path to the `monailabel\scripts` directory to the `PATH` environment variable, follow the instructions in this [macOS example](https://www.cyberciti.biz/faq/appleosx-bash-unix-change-set-path-environment-variable/). If any `dll` libraries are missing, you can download them from [dll-files.com](https://www.dll-files.com/). Specifically, if you need the missing `cudnn64_8.dll`, you can download it using this [link](https://www.dll-files.com/cudnn64_8.dll.html). After downloading the `dll` files, you need to copy them to the system disk. On Windows systems, the standard location is `C:\Windows\System32`.
 
 #### Weights and Sample Project
 
