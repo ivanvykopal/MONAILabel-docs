@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2481],{2919:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/MONAILabel-docs/blog/tags/facebook","allTagsPath":"/MONAILabel-docs/blog/tags","count":1}')}}]);
